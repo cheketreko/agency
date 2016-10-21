@@ -1,0 +1,58 @@
+/* General */
+.box-title-1 {
+	font-size: 30px;
+	text-transform: uppercase;
+	color: #5aaddd;
+	text-align: center;
+	padding:5px;
+}
+.our-intro p {
+	font-size: 16px;
+	color: #000;
+	font-weight: 300;
+	text-align: center;
+}
+.our-intro {
+	padding: 40px 0;
+}
+#logo {
+    margin-top: 45px;
+}
+/* Our Project */
+.our-project .img-project {
+	width: 380px;
+	height: 300px;
+	box-shadow: 3px 3px 3px 1px #ccc9c9;
+	padding: 19px;
+}
+.our-project .img-project:hover {
+	cursor: pointer;
+	opacity: .7;
+    -o-transition-duration: 1s;
+    -moz-transition-duration: 1s;
+    -webkit-transition: -webkit-transform 1s;
+}
+/* */
+#section-project {
+	padding: 50px 0;
+}
+/* Our Responsive */
+.our-responsive {
+	background-image: url(../images/bg/background-res.jpg);
+	padding: 47px 0;
+}
+.our-responsive .our-responsive-left {
+	padding: 110px 180px;
+}
+/* Contact Us */
+#contact-us{
+	padding: 50px 0;
+	padding: 90px 0;
+}
+.cal-to-action span {
+	font-size: 24px;
+	font-weight: 400;
+}
+.custom-close {
+	display: none!important;
+}
